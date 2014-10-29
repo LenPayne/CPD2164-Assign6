@@ -1,7 +1,7 @@
 # CPD-2164 Assignment #6
 ## Repetition Structures
 
-This repo contains starting files for challenges based on (the course textbook)[http://www.bignerdranch.com/we-write/objective-c-programming.html].
+This repo contains starting files for challenges based on [the course textbook](http://www.bignerdranch.com/we-write/objective-c-programming.html).
 
 Specifically, there are four challenges:
 
